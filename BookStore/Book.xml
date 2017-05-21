@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BookStore>
+<Book>
+	<title>Pride and prejudice</title>
+	<author>Austen Jane</author>
+	<genre>Classic Novel</genre>
+	<quantity>35</quantity>
+	<price>89</price>
+</Book>
+
+<Book>
+	<title>Girl on the train</title>
+	<author>Paula HAwkins</author>
+	<genre>Thriller</genre>
+	<quantity>10</quantity>
+	<price>78</price>
+</Book>
+
+<Book>
+	<title>Comfort Food</title>
+	<author>Jamie Oliver</author>
+	<genre>Cooking</genre>
+	<quantity>15</quantity>
+	<price>87</price>
+</Book>
+
+<Book>
+	<title>To have or to be?</title>
+	<author>Erich Fromm</author>
+	<genre>Self Help</genre>
+	<quantity>2</quantity>
+	<price>57</price>
+</Book>
+
+<Book>
+	<title>Self Help</title>
+	<author>Samiel Smiles</author>
+	<genre>Self Help</genre>
+	<quantity>1</quantity>
+	<price>89</price>
+</Book>
+
+<Book>
+	<title>Rumpelstiltskin</title>
+	<author>Grimms Brothers</author>
+	<genre>Children</genre>
+	<quantity>9</quantity>
+	<price>47</price>
+</Book>
+<Book>
+<title>Girl Online Going Solo</title>
+<author>Zoe Sugg</author>
+<genre>Romantic</genre>
+<quantity>0</quantity>
+<price>78.0</price>
+</Book>
+</BookStore>

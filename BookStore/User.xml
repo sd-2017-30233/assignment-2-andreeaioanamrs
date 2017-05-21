@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookStore>
+<User>
+	<username>mpopescu</username>
+	<password>123</password>
+	<name>Maria Popescu</name>
+	<cnp>2900108123456</cnp>
+</User>
+
+<User>
+	<username>vpop</username>
+	<password>123</password>
+	<name>Victor Pop</name>
+	<cnp>1920102123456</cnp>
+</User>
+
+<User>
+	<username>dpopa</username>
+	<password>123</password>
+	<name>Diana Popa</name>
+	<cnp>2890909123456</cnp>
+</User>
+</BookStore>
